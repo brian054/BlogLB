@@ -1,1 +1,5 @@
-We need to remove one of these node_modules im not sure which one...TODO ASAP
+# My First Post
+
+Welcome to **LB Does Code**
+
+Powered by Vite + Tailwind.
